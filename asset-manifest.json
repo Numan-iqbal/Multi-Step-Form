@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Multi-Step-Form/static/js/main.540551bd.chunk.js",
+    "main.js.map": "/Multi-Step-Form/static/js/main.540551bd.chunk.js.map",
+    "runtime-main.js": "/Multi-Step-Form/static/js/runtime-main.66c24c32.js",
+    "runtime-main.js.map": "/Multi-Step-Form/static/js/runtime-main.66c24c32.js.map",
+    "static/js/2.fade3a6a.chunk.js": "/Multi-Step-Form/static/js/2.fade3a6a.chunk.js",
+    "static/js/2.fade3a6a.chunk.js.map": "/Multi-Step-Form/static/js/2.fade3a6a.chunk.js.map",
+    "index.html": "/Multi-Step-Form/index.html",
+    "static/js/2.fade3a6a.chunk.js.LICENSE.txt": "/Multi-Step-Form/static/js/2.fade3a6a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66c24c32.js",
+    "static/js/2.fade3a6a.chunk.js",
+    "static/js/main.540551bd.chunk.js"
+  ]
+}
